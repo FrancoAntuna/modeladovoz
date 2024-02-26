@@ -3,3 +3,5 @@ Este modelo esta basado en EasyGUI, adaptado al uso de entornos locales mediante
 La instalacion se hace mediante el archivo "instalador.bat" el cual tiene almacenadas todas las dependencias, liberias y assets necesarios.
 
 La ejecucion del modelo, temporalmente, es mediante el archivo "Modelo.ipynb".
+
+TEMPORALMENTE NO ESTA FUNCIONANDO DEBIDO A IMPLEMENTACIONES EN EL CODIGO
