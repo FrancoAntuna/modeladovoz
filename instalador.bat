@@ -7,9 +7,6 @@ git clone https://github.com/FrancoAntuna/modelovoz.git "%~dp0project-main"
 REM Cambiar al directorio recién creado
 cd /d "%~dp0project-main"
 
-REM Ejecutar el script de descarga de archivos
-python download_files.py
-
 REM Instalar los requisitos del proyecto
 pip install -r "%~dp0project-main\requirements-safe.txt"
 
